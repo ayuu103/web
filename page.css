@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background: url('img/bg1.jpg') center / cover fixed no-repeat;
+}
+.container{
+ display: flex;
+}
+
+.nav-img{
+    height: 20px;
+    width: auto;
+}
+
+.navbar-brand img{
+    height: 50px;
+    width: auto;
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark static-top{
+display: flex;
+justify-content: space-between;
+}
